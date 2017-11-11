@@ -1,0 +1,21 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    color:MediumSlateBlue ;
+    border: 10px solid dodgerblue;
+    background-color: navy;
+}
+
+#result{
+    background-color: mistyrose;
+}
+
+#lookup{
+    background-color: turquoise;
+    border: 5px solid darkviolet;
+    color: royalblue;
+    font-size: 20px;
+}
+
